@@ -1,0 +1,1002 @@
+[
+  {
+    "cityName": "Atlanta",
+    "state": "GA",
+    "coordinates": {
+      "lat": 33.7488,
+      "lng": -84.3877
+    },
+    "landmarks": [
+      "Georgia Aquarium",
+      "CNN Center",
+      "Centennial Olympic Park",
+      "Martin Luther King Jr. National Historic Park"
+    ],
+    "restaurants": [
+      "The Varsity",
+      "Mary Mac's Tea Room",
+      "Antico Pizza Napoletana",
+      "Fox Bros. Bar-B-Q"
+    ]
+  },
+  {
+    "cityName": "Baltimore",
+    "state": "MD",
+    "coordinates": {
+      "lat": 39.2904,
+      "lng": -76.6122
+    },
+    "landmarks": [
+      "Inner Harbor",
+      "Fort McHenry",
+      "American Visionary Art Museum",
+      "Baltimore Museum of Art"
+    ],
+    "restaurants": [
+      "Phillips Seafood",
+      "The Prime Rib",
+      "Amicci's",
+      "Woodberry Kitchen"
+    ]
+  },
+  {
+    "cityName": "Birmingham",
+    "state": "AL",
+    "coordinates": {
+      "lat": 33.5186,
+      "lng": -86.8104
+    },
+    "landmarks": [
+      "Birmingham Civil Rights Institute",
+      "Vulcan Park and Museum",
+      "Red Mountain Park",
+      "Alabama Theatre"
+    ],
+    "restaurants": [
+      "Highlands Bar & Grill",
+      "Chez Fonfon",
+      "Jim 'N Nick's Bar-B-Q",
+      "The Fish Market Restaurant"
+    ]
+  },
+  {
+    "cityName": "Boston",
+    "state": "MA",
+    "coordinates": {
+      "lat": 42.3601,
+      "lng": -71.0589
+    },
+    "landmarks": [
+      "Freedom Trail",
+      "Fenway Park",
+      "Harvard University",
+      "Boston Tea Party Ships"
+    ],
+    "restaurants": [
+      "Union Oyster House",
+      "Legal Sea Foods",
+      "North End Italian restaurants",
+      "Mike & Patty's"
+    ]
+  },
+  {
+    "cityName": "Buffalo",
+    "state": "NY",
+    "coordinates": {
+      "lat": 42.8864,
+      "lng": -78.8784
+    },
+    "landmarks": [
+      "Niagara Falls",
+      "Frank Lloyd Wright's Darwin D. Martin House",
+      "Canalside",
+      "Elmwood Village"
+    ],
+    "restaurants": [
+      "Anchor Bar",
+      "Duff's Famous Wings",
+      "Chef's Restaurant",
+      "La Tee Da"
+    ]
+  },
+  {
+    "cityName": "Charlotte",
+    "state": "NC",
+    "coordinates": {
+      "lat": 35.2271,
+      "lng": -80.8431
+    },
+    "landmarks": [
+      "NASCAR Hall of Fame",
+      "Discovery Place Science",
+      "Freedom Park",
+      "U.S. National Whitewater Center"
+    ],
+    "restaurants": [
+      "Price's Chicken Coop",
+      "Amelie's French Bakery",
+      "The Peppermill",
+      "Hawkers Asian Street Food"
+    ]
+  },
+  {
+    "cityName": "Chicago",
+    "state": "IL",
+    "coordinates": {
+      "lat": 41.8781,
+      "lng": -87.6298
+    },
+    "landmarks": [
+      "Millennium Park",
+      "Willis Tower",
+      "Navy Pier",
+      "Art Institute of Chicago"
+    ],
+    "restaurants": [
+      "Lou Malnati's Pizzeria",
+      "Portillo's",
+      "The Purple Pig",
+      "Gibsons Bar & Steakhouse"
+    ]
+  },
+  {
+    "cityName": "Cincinnati",
+    "state": "OH",
+    "coordinates": {
+      "lat": 39.1031,
+      "lng": -84.5120
+    },
+    "landmarks": [
+      "Cincinnati Zoo & Botanical Garden",
+      "Fountain Square",
+      "American Sign Museum",
+      "Cincinnati Museum Center"
+    ],
+    "restaurants": [
+      "Skyline Chili",
+      "Montgomery Inn",
+      "Graeter's Ice Cream",
+      "The Precinct"
+    ]
+  },
+  {
+    "cityName": "Cleveland",
+    "state": "OH",
+    "coordinates": {
+      "lat": 41.4993,
+      "lng": -81.6944
+    },
+    "landmarks": [
+      "Rock and Roll Hall of Fame",
+      "Cleveland Museum of Art",
+      "West Side Market",
+      "Progressive Field"
+    ],
+    "restaurants": [
+      "Lola Bistro",
+      "Great Lakes Brewing Company",
+      "Melt Bar and Grilled",
+      "Sokolowski's University Inn"
+    ]
+  },
+  {
+    "cityName": "Columbus",
+    "state": "OH",
+    "coordinates": {
+      "lat": 39.9612,
+      "lng": -82.9988
+    },
+    "landmarks": [
+      "Columbus Zoo and Aquarium",
+      "COSI Science Museum",
+      "German Village",
+      "Ohio Stadium"
+    ],
+    "restaurants": [
+      "Schmidt's Restaurant und Sausage Haus",
+      "The Thurman Cafe",
+      "Jeni's Splendid Ice Creams",
+      "North Market"
+    ]
+  },
+  {
+    "cityName": "Dallas",
+    "state": "TX",
+    "coordinates": {
+      "lat": 32.7767,
+      "lng": -96.7970
+    },
+    "landmarks": [
+      "Dealey Plaza",
+      "Dallas Arboretum",
+      "AT&T Stadium",
+      "Bishop Arts District"
+    ],
+    "restaurants": [
+      "Pecan Lodge",
+      "Knife",
+      "Sissy's Southern Kitchen & Bar",
+      "Lockhart Smokehouse"
+    ]
+  },
+  {
+    "cityName": "Denver",
+    "state": "CO",
+    "coordinates": {
+      "lat": 39.7392,
+      "lng": -104.9903
+    },
+    "landmarks": [
+      "Red Rocks Amphitheatre",
+      "Denver Art Museum",
+      "Union Station",
+      "Washington Park"
+    ],
+    "restaurants": [
+      "Casa Bonita",
+      "Snooze AM Eatery",
+      "Root Down",
+      "The Cherry Cricket"
+    ]
+  },
+  {
+    "cityName": "Detroit",
+    "state": "MI",
+    "coordinates": {
+      "lat": 42.3314,
+      "lng": -83.0458
+    },
+    "landmarks": [
+      "Detroit Institute of Arts",
+      "Motown Museum",
+      "Renaissance Center",
+      "Eastern Market"
+    ],
+    "restaurants": [
+      "American Coney Island",
+      "Slows Bar BQ",
+      "The Whitney",
+      "Buddy's Pizza"
+    ]
+  },
+  {
+    "cityName": "Grand Rapids",
+    "state": "MI",
+    "coordinates": {
+      "lat": 42.9634,
+      "lng": -85.6681
+    },
+    "landmarks": [
+      "Frederik Meijer Gardens & Sculpture Park",
+      "Gerald R. Ford Presidential Museum",
+      "Grand Rapids Art Museum",
+      "John Ball Zoo"
+    ],
+    "restaurants": [
+      "The Chop House",
+      "Founders Brewing Co.",
+      "San Chez Bistro",
+      "Marie Catrib's"
+    ]
+  },
+  {
+    "cityName": "Hartford",
+    "state": "CT",
+    "coordinates": {
+      "lat": 41.7658,
+      "lng": -72.6734
+    },
+    "landmarks": [
+      "Mark Twain House & Museum",
+      "Wadsworth Atheneum",
+      "Connecticut State Capitol",
+      "Bushnell Park"
+    ],
+    "restaurants": [
+      "Max Downtown",
+      "Peppercorn's Grill",
+      "Salute",
+      "The Capital Grille"
+    ]
+  },
+  {
+    "cityName": "Houston",
+    "state": "TX",
+    "coordinates": {
+      "lat": 29.7604,
+      "lng": -95.3698
+    },
+    "landmarks": [
+      "Space Center Houston",
+      "Houston Museum of Natural Science",
+      "Buffalo Bayou Park",
+      "The Heights"
+    ],
+    "restaurants": [
+      "The Original Ninfa's on Navigation",
+      "Franklin Barbecue",
+      "Hugo's",
+      "Uchi Houston"
+    ]
+  },
+  {
+    "cityName": "Indianapolis",
+    "state": "IN",
+    "coordinates": {
+      "lat": 39.7684,
+      "lng": -86.1581
+    },
+    "landmarks": [
+      "Indianapolis Motor Speedway",
+      "Indiana State Museum",
+      "White River State Park",
+      "Monument Circle"
+    ],
+    "restaurants": [
+      "St. Elmo Steak House",
+      "Shapiro's Delicatessen",
+      "The Slippery Noodle Inn",
+      "Bluebeard"
+    ]
+  },
+  {
+    "cityName": "Jacksonville",
+    "state": "FL",
+    "coordinates": {
+      "lat": 30.3322,
+      "lng": -81.6557
+    },
+    "landmarks": [
+      "Jacksonville Beach",
+      "Cummer Museum of Art and Gardens",
+      "Jacksonville Zoo and Gardens",
+      "Riverside Arts Market"
+    ],
+    "restaurants": [
+      "Orsay",
+      "Black Sheep Restaurant",
+      "Safe Harbor Seafood",
+      "European Street Cafe"
+    ]
+  },
+  {
+    "cityName": "Kansas City",
+    "state": "MO",
+    "coordinates": {
+      "lat": 39.0997,
+      "lng": -94.5786
+    },
+    "landmarks": [
+      "National World War I Museum",
+      "Union Station",
+      "Country Club Plaza",
+      "Kauffman Stadium"
+    ],
+    "restaurants": [
+      "Joe's Kansas City Bar-B-Que",
+      "LC's Bar-B-Q",
+      "The American Restaurant",
+      "Winstead's"
+    ]
+  },
+  {
+    "cityName": "Las Vegas",
+    "state": "NV",
+    "coordinates": {
+      "lat": 36.1699,
+      "lng": -115.1398
+    },
+    "landmarks": [
+      "Las Vegas Strip",
+      "Red Rock Canyon",
+      "Fremont Street Experience",
+      "Bellagio Fountains"
+    ],
+    "restaurants": [
+      "Joel Robuchon",
+      "Bacchanal Buffet",
+      "Lotus of Siam",
+      "In-N-Out Burger"
+    ]
+  },
+  {
+    "cityName": "Los Angeles",
+    "state": "CA",
+    "coordinates": {
+      "lat": 34.0522,
+      "lng": -118.2437
+    },
+    "landmarks": [
+      "Hollywood Sign",
+      "Getty Center",
+      "Santa Monica Pier",
+      "Griffith Observatory"
+    ],
+    "restaurants": [
+      "In-N-Out Burger",
+      "Guelaguetza",
+      "Providence",
+      "Philippe the Original"
+    ]
+  },
+  {
+    "cityName": "Louisville",
+    "state": "KY",
+    "coordinates": {
+      "lat": 38.2527,
+      "lng": -85.7585
+    },
+    "landmarks": [
+      "Churchill Downs",
+      "Louisville Slugger Museum & Factory",
+      "Big Four Bridge",
+      "Kentucky Derby Museum"
+    ],
+    "restaurants": [
+      "The Brown Hotel",
+      "Hammerheads",
+      "Proof on Main",
+      "Lynn's Paradise Cafe"
+    ]
+  },
+  {
+    "cityName": "Memphis",
+    "state": "TN",
+    "coordinates": {
+      "lat": 35.1495,
+      "lng": -90.0490
+    },
+    "landmarks": [
+      "Graceland",
+      "Beale Street",
+      "Sun Studio",
+      "National Civil Rights Museum"
+    ],
+    "restaurants": [
+      "Central BBQ",
+      "Gus's World Famous Fried Chicken",
+      "The Arcade Restaurant",
+      "Rendezvous"
+    ]
+  },
+  {
+    "cityName": "Miami",
+    "state": "FL",
+    "coordinates": {
+      "lat": 25.7617,
+      "lng": -80.1918
+    },
+    "landmarks": [
+      "South Beach",
+      "Art Deco Historic District",
+      "Vizcaya Museum and Gardens",
+      "Little Havana"
+    ],
+    "restaurants": [
+      "Joe's Stone Crab",
+      "Versailles Restaurant",
+      "Yardbird Southern Table & Bar",
+      "KYU Miami"
+    ]
+  },
+  {
+    "cityName": "Milwaukee",
+    "state": "WI",
+    "coordinates": {
+      "lat": 43.0389,
+      "lng": -87.9065
+    },
+    "landmarks": [
+      "Harley-Davidson Museum",
+      "Milwaukee Art Museum",
+      "Historic Third Ward",
+      "Lakefront Brewery"
+    ],
+    "restaurants": [
+      "Sanford Restaurant",
+      "Sobelman's Pub & Grill",
+      "AJ Bombers",
+      "Lakefront Brewery"
+    ]
+  },
+  {
+    "cityName": "Minneapolis",
+    "state": "MN",
+    "coordinates": {
+      "lat": 44.9778,
+      "lng": -93.2650
+    },
+    "landmarks": [
+      "Mill City Museum",
+      "Walker Art Center",
+      "Minnehaha Falls",
+      "Target Center"
+    ],
+    "restaurants": [
+      "Spoon and Stable",
+      "The Bachelor Farmer",
+      "Matt's Bar",
+      "Jucy Lucy"
+    ]
+  },
+  {
+    "cityName": "Nashville",
+    "state": "TN",
+    "coordinates": {
+      "lat": 36.1627,
+      "lng": -86.7816
+    },
+    "landmarks": [
+      "Grand Ole Opry",
+      "Country Music Hall of Fame",
+      "Broadway",
+      "Ryman Auditorium"
+    ],
+    "restaurants": [
+      "Hattie B's Hot Chicken",
+      "Prince's Hot Chicken Shack",
+      "The Catbird Seat",
+      "Arnold's Country Kitchen"
+    ]
+  },
+  {
+    "cityName": "New Orleans",
+    "state": "LA",
+    "coordinates": {
+      "lat": 29.9511,
+      "lng": -90.0715
+    },
+    "landmarks": [
+      "French Quarter",
+      "Jackson Square",
+      "Garden District",
+      "Bourbon Street"
+    ],
+    "restaurants": [
+      "Commander's Palace",
+      "Cafe Du Monde",
+      "Acme Oyster House",
+      "Mother's Restaurant"
+    ]
+  },
+  {
+    "cityName": "New York",
+    "state": "NY",
+    "coordinates": {
+      "lat": 40.7128,
+      "lng": -74.0060
+    },
+    "landmarks": [
+      "Statue of Liberty",
+      "Central Park",
+      "Times Square",
+      "Brooklyn Bridge"
+    ],
+    "restaurants": [
+      "Katz's Delicatessen",
+      "Peter Luger Steak House",
+      "Eleven Madison Park",
+      "Joe's Pizza"
+    ]
+  },
+  {
+    "cityName": "Oklahoma City",
+    "state": "OK",
+    "coordinates": {
+      "lat": 35.4676,
+      "lng": -97.5164
+    },
+    "landmarks": [
+      "Oklahoma City National Memorial",
+      "Bricktown Entertainment District",
+      "Oklahoma State Fair Park",
+      "Myriad Botanical Gardens"
+    ],
+    "restaurants": [
+      "Cattlemen's Steakhouse",
+      "Hideaway Pizza",
+      "Nic's Grill",
+      "The Coach House"
+    ]
+  },
+  {
+    "cityName": "Orlando",
+    "state": "FL",
+    "coordinates": {
+      "lat": 28.5383,
+      "lng": -81.3792
+    },
+    "landmarks": [
+      "Walt Disney World Resort",
+      "Universal Studios Florida",
+      "Lake Eola Park",
+      "International Drive"
+    ],
+    "restaurants": [
+      "Victoria & Albert's",
+      "The Ravenous Pig",
+      "Prato",
+      "Beefy King"
+    ]
+  },
+  {
+    "cityName": "Philadelphia",
+    "state": "PA",
+    "coordinates": {
+      "lat": 39.9526,
+      "lng": -75.1652
+    },
+    "landmarks": [
+      "Liberty Bell",
+      "Independence Hall",
+      "Philadelphia Museum of Art",
+      "Reading Terminal Market"
+    ],
+    "restaurants": [
+      "Pat's King of Steaks",
+      "Geno's Steaks",
+      "Zahav",
+      "Reading Terminal Market"
+    ]
+  },
+  {
+    "cityName": "Phoenix",
+    "state": "AZ",
+    "coordinates": {
+      "lat": 33.4484,
+      "lng": -112.0740
+    },
+    "landmarks": [
+      "Desert Botanical Garden",
+      "Camelback Mountain",
+      "Heard Museum",
+      "South Mountain Park"
+    ],
+    "restaurants": [
+      "Pizzeria Bianco",
+      "FnB Restaurant",
+      "The Mission",
+      "Carolina's Mexican Food"
+    ]
+  },
+  {
+    "cityName": "Pittsburgh",
+    "state": "PA",
+    "coordinates": {
+      "lat": 40.4406,
+      "lng": -79.9959
+    },
+    "landmarks": [
+      "Heinz Field",
+      "Carnegie Museums",
+      "Phipps Conservatory",
+      "Mount Washington"
+    ],
+    "restaurants": [
+      "Primanti Brothers",
+      "Heinz Field",
+      "The Capital Grille",
+      "Pamela's Diner"
+    ]
+  },
+  {
+    "cityName": "Portland",
+    "state": "OR",
+    "coordinates": {
+      "lat": 45.5152,
+      "lng": -122.6784
+    },
+    "landmarks": [
+      "Powell's City of Books",
+      "Washington Park",
+      "Pearl District",
+      "Hawthorne Bridge"
+    ],
+    "restaurants": [
+      "Voodoo Doughnut",
+      "Le Pigeon",
+      "Pok Pok",
+      "Salt & Straw"
+    ]
+  },
+  {
+    "cityName": "Providence",
+    "state": "RI",
+    "coordinates": {
+      "lat": 41.8240,
+      "lng": -71.4128
+    },
+    "landmarks": [
+      "WaterFire Providence",
+      "Brown University",
+      "Roger Williams Park",
+      "Federal Hill"
+    ],
+    "restaurants": [
+      "Al Forno",
+      "New York System Wieners",
+      "Bacaro",
+      "The Dorrance"
+    ]
+  },
+  {
+    "cityName": "Raleigh",
+    "state": "NC",
+    "coordinates": {
+      "lat": 35.7796,
+      "lng": -78.6382
+    },
+    "landmarks": [
+      "North Carolina State Capitol",
+      "North Carolina Museum of Art",
+      "Pullen Park",
+      "Red Hat Amphitheater"
+    ],
+    "restaurants": [
+      "The Pit",
+      "Poole's Diner",
+      "Beasley's Chicken + Honey",
+      "Brewery Bhavana"
+    ]
+  },
+  {
+    "cityName": "Richmond",
+    "state": "VA",
+    "coordinates": {
+      "lat": 37.5407,
+      "lng": -77.4360
+    },
+    "landmarks": [
+      "Virginia Museum of Fine Arts",
+      "Maymont Park",
+      "Hollywood Cemetery",
+      "Belle Isle"
+    ],
+    "restaurants": [
+      "Lemaire",
+      "Perly's",
+      "ZZQ",
+      "L'Opossum"
+    ]
+  },
+  {
+    "cityName": "Riverside",
+    "state": "CA",
+    "coordinates": {
+      "lat": 33.9533,
+      "lng": -117.3962
+    },
+    "landmarks": [
+      "Mission Inn Hotel & Spa",
+      "Riverside Art Museum",
+      "Mount Rubidoux",
+      "California Citrus State Historic Park"
+    ],
+    "restaurants": [
+      "Duane's Prime Steaks",
+      "Simple Simon's Bakery & Bistro",
+      "Mario's Place",
+      "The Salted Pig"
+    ]
+  },
+  {
+    "cityName": "Rochester",
+    "state": "NY",
+    "coordinates": {
+      "lat": 43.1566,
+      "lng": -77.6088
+    },
+    "landmarks": [
+      "Strong National Museum of Play",
+      "Highland Park",
+      "Susan B. Anthony Museum & House",
+      "Eastman Theatre"
+    ],
+    "restaurants": [
+      "Nick Tahou Hots",
+      "Dinosaur Bar-B-Que",
+      "The Revelry",
+      "Aladdin's Natural Eatery"
+    ]
+  },
+  {
+    "cityName": "Sacramento",
+    "state": "CA",
+    "coordinates": {
+      "lat": 38.5816,
+      "lng": -121.4944
+    },
+    "landmarks": [
+      "California State Capitol",
+      "Old Sacramento Historic District",
+      "Crocker Art Museum",
+      "American River Bike Trail"
+    ],
+    "restaurants": [
+      "The Firehouse Restaurant",
+      "Frank Fat's",
+      "Tower Cafe",
+      "Ella Dining Room and Bar"
+    ]
+  },
+  {
+    "cityName": "Salt Lake City",
+    "state": "UT",
+    "coordinates": {
+      "lat": 40.7608,
+      "lng": -111.8910
+    },
+    "landmarks": [
+      "Temple Square",
+      "Utah State Capitol",
+      "Great Salt Lake",
+      "Red Butte Garden"
+    ],
+    "restaurants": [
+      "Red Iguana",
+      "The Copper Onion",
+      "Crown Burgers",
+      "Bombay House"
+    ]
+  },
+  {
+    "cityName": "San Antonio",
+    "state": "TX",
+    "coordinates": {
+      "lat": 29.4241,
+      "lng": -98.4936
+    },
+    "landmarks": [
+      "The Alamo",
+      "River Walk",
+      "San Antonio Missions",
+      "Pearl Farmers Market"
+    ],
+    "restaurants": [
+      "Mi Tierra Cafe",
+      "Puffy Tacos",
+      "Cured",
+      "The Original Mexican Restaurant"
+    ]
+  },
+  {
+    "cityName": "San Diego",
+    "state": "CA",
+    "coordinates": {
+      "lat": 32.7157,
+      "lng": -117.1611
+    },
+    "landmarks": [
+      "Balboa Park",
+      "San Diego Zoo",
+      "Sunset Cliffs",
+      "Gaslamp Quarter"
+    ],
+    "restaurants": [
+      "Juniper & Ivy",
+      "Phil's BBQ",
+      "Lucha Libre Gourmet Taco Shop",
+      "George's at the Cove"
+    ]
+  },
+  {
+    "cityName": "San Francisco",
+    "state": "CA",
+    "coordinates": {
+      "lat": 37.7749,
+      "lng": -122.4194
+    },
+    "landmarks": [
+      "Golden Gate Bridge",
+      "Alcatraz Island",
+      "Fisherman's Wharf",
+      "Lombard Street"
+    ],
+    "restaurants": [
+      "Swan Oyster Depot",
+      "Tartine Bakery",
+      "State Bird Provisions",
+      "In-N-Out Burger"
+    ]
+  },
+  {
+    "cityName": "Seattle",
+    "state": "WA",
+    "coordinates": {
+      "lat": 47.6062,
+      "lng": -122.3321
+    },
+    "landmarks": [
+      "Space Needle",
+      "Pike Place Market",
+      "Museum of Pop Culture",
+      "Kerry Park"
+    ],
+    "restaurants": [
+      "Pike Place Chowder",
+      "Canlis",
+      "Dick's Drive-In",
+      "The Walrus and the Carpenter"
+    ]
+  },
+  {
+    "cityName": "St. Louis",
+    "state": "MO",
+    "coordinates": {
+      "lat": 38.6270,
+      "lng": -90.1994
+    },
+    "landmarks": [
+      "Gateway Arch",
+      "Forest Park",
+      "Anheuser-Busch Brewery",
+      "City Museum"
+    ],
+    "restaurants": [
+      "Pappy's Smokehouse",
+      "Ted Drewes Frozen Custard",
+      "Toasted Ravioli",
+      "The Hill (Italian neighborhood)"
+    ]
+  },
+  {
+    "cityName": "Tampa",
+    "state": "FL",
+    "coordinates": {
+      "lat": 27.9506,
+      "lng": -82.4572
+    },
+    "landmarks": [
+      "Busch Gardens Tampa Bay",
+      "Tampa Riverwalk",
+      "Ybor City",
+      "Florida Aquarium"
+    ],
+    "restaurants": [
+      "Bern's Steak House",
+      "Columbia Restaurant",
+      "Ulele",
+      "Mise en Place"
+    ]
+  },
+  {
+    "cityName": "Virginia Beach",
+    "state": "VA",
+    "coordinates": {
+      "lat": 36.8529,
+      "lng": -75.9780
+    },
+    "landmarks": [
+      "Virginia Beach Boardwalk",
+      "First Landing State Park",
+      "Virginia Aquarium",
+      "Cape Henry Lighthouse"
+    ],
+    "restaurants": [
+      "Catch 31",
+      "Tautog's Restaurant",
+      "The Back Deck",
+      "Surf & Rescue"
+    ]
+  },
+  {
+    "cityName": "Washington DC",
+    "state": "DC",
+    "coordinates": {
+      "lat": 38.9072,
+      "lng": -77.0369
+    },
+    "landmarks": [
+      "Lincoln Memorial",
+      "Washington Monument",
+      "Smithsonian Museums",
+      "Capitol Building"
+    ],
+    "restaurants": [
+      "Ben's Chili Bowl",
+      "The Inn at Little Washington",
+      "Rose's Luxury",
+      "Old Ebbitt Grill"
+    ]
+  }
+]
